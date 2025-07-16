@@ -80,7 +80,7 @@
 	"bqq": {
       "api": "https://www.bqgxsz.com/api.php/provide/vod",
       "name": "笔趣影院",
-	  detail: "https://www.bqgxsz.com/"
+	  "detail": "https://www.bqgxsz.com/"
     }
   }
 }
